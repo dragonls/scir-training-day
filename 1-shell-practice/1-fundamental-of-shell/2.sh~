@@ -1,0 +1,7 @@
+#!/bin/sh
+# Practice 2
+
+var="tmp__"`date +%Y%m%d`
+
+echo $var 
+
