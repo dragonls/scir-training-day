@@ -7,4 +7,3 @@ for i in `ls` ; do
 	done;
 done;
 rm 3.tmp
-#sed -n "s/\.raw$//gp" $i
